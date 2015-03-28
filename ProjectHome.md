@@ -1,0 +1,1 @@
+Here, junaio packages for the use with junaio's Open API will be hosted. Issues to be brought relate to general API interface and mobile client behaviors.
